@@ -1,4 +1,4 @@
-### Forkify
+# Forkify
 
 ## Project developed with the help of the JavaScript Udemy course from Jonas Schmedtmann.
 This project includes everything from the course wrapped up in a single static web application. It is developed using the MVC architecture
